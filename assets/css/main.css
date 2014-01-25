@@ -58,3 +58,16 @@
 h1.post-title {
   font-size: 1.8em;
 }
+
+.post-excerpt h1, .post-excerpt h2, .post-excerpt h3, .post-excerpt h4, .post-excerpt h5, .post-excerpt h6,
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+  color: #555;
+  text-decoration: underline;
+}
+
+.post-excerpt h1, .post-content h1 { font-size: 1.4em; }
+.post-excerpt h2, .post-content h2 { font-size: 1.3em; }
+.post-excerpt h3, .post-content h3 { font-size: 1.2em; }
+.post-excerpt h4, .post-content h4 { font-size: 1.1em; }
+.post-excerpt h5, .post-content h5 { font-size: 1.0em; }
+.post-excerpt h6, .post-content h6 { font-size: 1.0em; }
